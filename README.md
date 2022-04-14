@@ -17,3 +17,7 @@ Note: Some content is focused on Germany.
 - https://www.youtube.com/watch?v=cIJJ6FaqKVM First 12 Things I Do to Setup a MacBook: Apps, Settings & Tips, Tyler Stalman
 - https://www.ifun.de/kurztipp-so-zeigt-euch-os-x-saemtliche-installierte-software-an-80101/ Kurztipp: So zeigt euch OS X sämtliche installierte Software an
 - https://discussions.apple.com/thread/251629915 How do I identify Third Party Apps on my Mac
+- https://praxistipps.chip.de/time-capsule-als-nas-nutzen-so-gehts_94747
+- https://www.macuser.de/threads/alte-time-capsule-als-home-server-verwenden.825209/
+- https://apple.stackexchange.com/questions/256405/is-it-possible-to-use-an-apple-time-capsule-just-as-a-network-attached-backup-dr
+- https://apple.stackexchange.com/questions/tagged/time-capsule?tab=Votes
