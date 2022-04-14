@@ -5,9 +5,10 @@ Note: Some content is focused on Germany.
 
 ## Settings
 - Task-Manager öffnen: Drücken der Tasten `Cmd` + `Alt` + `Esc`
-- Aktivitätsanzeige öffnen: Öffne `Aktivitätsanzeige` via Launchpad
-- Autostart: Einstellungen --> Benutzer & Gruppen --> Benutzer auswählen --> Startobjekte
+- Aktivitätsanzeige öffnen: Spotlight Suche --> `Aktivitätsanzeige`
+- Autostart: Systemeinstellungen --> Benutzer & Gruppen --> Benutzer auswählen --> Startobjekte
 - Programme deinstallieren: Finder --> Programme --> Rechtsklick auf Programm --> In den Papierkorb legen --> Papierkorb leeren
+- Dienstprogramme: Spotlight Suche --> `Dienstprogramme`
 
 ## Links
 - https://www.youtube.com/watch?v=PlruI5ryP8Q How to Use MacBook Pro - New to Mac Beginners Guide 2021, Tech & Design
