@@ -21,4 +21,4 @@ Note: Some content is focused on Germany.
 - https://praxistipps.chip.de/time-capsule-als-nas-nutzen-so-gehts_94747
 - https://www.macuser.de/threads/alte-time-capsule-als-home-server-verwenden.825209/
 - https://apple.stackexchange.com/questions/256405/is-it-possible-to-use-an-apple-time-capsule-just-as-a-network-attached-backup-dr
-- https://apple.stackexchange.com/questions/tagged/time-capsule?tab=Votes
+- https://apple.stackexchange.com/questions/tagged/time-capsule?tab=Votes <-- important! check out the other answers
