@@ -5,7 +5,7 @@ Note: Some content is focused on Germany.
 
 ## Settings
 - Task-Manager öffnen: Drücken der Tasten `Cmd` + `Alt` + `Esc`
-- Aktivitätsanzeige öffnen: Öffne "Aktivitätsanzeige" via Launchpad
+- Aktivitätsanzeige öffnen: Öffne `Aktivitätsanzeige` via Launchpad
 - Autostart: Einstellungen --> Benutzer & Gruppen --> Benutzer auswählen --> Startobjekte
 - Programme deinstallieren: Finder --> Programme --> Rechtsklick auf Programm --> In den Papierkorb legen --> Papierkorb leeren
 
