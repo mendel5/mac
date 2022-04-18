@@ -22,3 +22,6 @@ Note: Some content is focused on Germany.
 - https://www.macuser.de/threads/alte-time-capsule-als-home-server-verwenden.825209/
 - https://apple.stackexchange.com/questions/256405/is-it-possible-to-use-an-apple-time-capsule-just-as-a-network-attached-backup-dr
 - https://apple.stackexchange.com/questions/tagged/time-capsule?tab=Votes <-- important! check out the other answers
+- https://askubuntu.com/questions/332315/how-to-read-and-write-hfs-journaled-external-hdd-in-ubuntu-without-access-to-os
+- https://github.com/unsound/hfsexplorer
+- https://www.heise.de/download/product/hfsexplorer-46674
