@@ -2,6 +2,7 @@
 How to set up Apple's Mac OS
 
 Note: Some content is focused on Germany.
+- See also: https://github.com/mendel5/ios
 
 ## Settings
 - Task-Manager öffnen: Drücken der Tasten `Cmd` + `Alt` + `Esc`
