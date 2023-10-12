@@ -1,5 +1,5 @@
 # mac-setup
-How to set up Apple's Mac OS
+How to set up Apple's Mac OS.
 
 Note: Some content is focused on Germany.
 - See also: https://github.com/mendel5/ios
